@@ -21,3 +21,6 @@ https://amnapervez8910.github.io/amna-pervez-portfolio/
 - 📧 Email: amnapervez8910@gmail.com
 - 💻 GitHub: https://github.com/amnapervez8910
 - 🔗 LinkedIn: https://www.linkedin.com/in/amna-pervez-1b2078389
+
+## Cloud DevOps Lab 03
+Portfolio deployed to https://amnapervez8910.github.io/ for GitHub Pages practice.
